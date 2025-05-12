@@ -19,4 +19,4 @@ Este projeto é um clone da **tela inicial do Instagram**, desenvolvido com o ob
 
 ## Captura de Tela
 
-![Tela Inicial do Clone do Instagram](./imagem-projeto.png)
+![Tela Inicial do Clone do Instagram](instagran/imagem-projeto.png)
